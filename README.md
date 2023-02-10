@@ -1,6 +1,6 @@
 # Micropython Library for MH-Z19B CO2 Sensor
 
-This library includes a simple class to get data and calibrate a connected MH-Z19B CO2 Sensor. It is only tested on the Raspberry Pi Pico (H) with micropython 1.19.1, but it should work on all newer versions of micropython and other boards, that support mycropython and UART. 
+This library includes a simple class to get data and calibrate a connected MH-Z19B CO2 Sensor. It is only tested on the Raspberry Pi Pico (H) with micropython 1.19.1, but it should work on all newer versions of micropython and other boards, that support micropython and UART. 
 
 It implements all commands detailed in the [datasheet](https://www.ribu.at/mediafiles/datasheets/mh-z19b-co2-ver1_0.pdf). 
 
